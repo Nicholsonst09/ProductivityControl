@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductivityControl")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a48fa3fc87bb684c8a85cd6782d4e12d39a89d3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b1aa1754d440e4069d2a0dac00894cb203f962")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductivityControl")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductivityControl")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
