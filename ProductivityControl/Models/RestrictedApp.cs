@@ -13,10 +13,10 @@ namespace ProductivityControl.Models
         [Key]
         public int Id { get; set; }
         public string Name { get; set; }
-        public string ProcessName { get; set; }
-        public string Url { get; set; }
-        public bool IsBlocked { get; set; }
-        public int MaxMinsAllowed {get; set; }
+        public string? ProcessName { get; set; }
+        public string? Url { get; set; }
+        public bool? IsBlocked { get; set; }
+        public int? MaxMinsAllowed {get; set; }
 
         public enum RestrcitionType  //'enum' -> Special data type in C# that allows defining a set of named constants
         {
@@ -24,7 +24,7 @@ namespace ProductivityControl.Models
             Application
         }
 
-        public RestrcitionType type { get; set; } 
+        public RestrcitionType? type { get; set; } 
 
     }
 }

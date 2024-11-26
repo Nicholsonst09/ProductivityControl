@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\ProductivityControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProductivityControl\\ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\repositories\\restrictedapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\repositories\\restrictedapprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\models\\restrictedapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\models\\restrictedapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\interfaces\\usageloginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\interfaces\\usageloginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\models\\usagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\models\\usagelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\interfaces\\restrictedappinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\interfaces\\restrictedappinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|c:\\productivitycontrol\\productivitycontrol\\repositories\\usageloginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C9A797-3FD5-43DA-9748-EC2847630601}|ProductivityControl\\ProductivityControl.csproj|solutionrelative:productivitycontrol\\repositories\\usageloginterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -46,41 +54,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241126022734_InitialCreate.cs",
-              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs",
-              "RelativeDocumentMoniker": "ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs",
-              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs",
-              "RelativeToolTip": "ProductivityControl\\Migrations\\20241126022734_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T02:27:34.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Context.cs",
               "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Data\\Context.cs",
               "RelativeDocumentMoniker": "ProductivityControl\\Data\\Context.cs",
               "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Data\\Context.cs",
               "RelativeToolTip": "ProductivityControl\\Data\\Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T02:11:20.409Z",
+              "WhenOpened": "2024-11-26T19:30:43.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UsageLog.cs",
               "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Models\\UsageLog.cs",
               "RelativeDocumentMoniker": "ProductivityControl\\Models\\UsageLog.cs",
               "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Models\\UsageLog.cs",
               "RelativeToolTip": "ProductivityControl\\Models\\UsageLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:30:09.603Z",
+              "WhenOpened": "2024-11-26T19:29:55.122Z",
               "EditorCaption": ""
             },
             {
@@ -91,35 +86,66 @@
               "RelativeDocumentMoniker": "ProductivityControl\\Models\\RestrictedApp.cs",
               "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Models\\RestrictedApp.cs",
               "RelativeToolTip": "ProductivityControl\\Models\\RestrictedApp.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:29:59.155Z",
+              "WhenOpened": "2024-11-26T19:11:17.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsageLogInterface.cs",
+              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Repositories\\UsageLogInterface.cs",
+              "RelativeDocumentMoniker": "ProductivityControl\\Repositories\\UsageLogInterface.cs",
+              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Repositories\\UsageLogInterface.cs",
+              "RelativeToolTip": "ProductivityControl\\Repositories\\UsageLogInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:26:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestrictedAppRepository.cs",
+              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Repositories\\RestrictedAppRepository.cs",
+              "RelativeDocumentMoniker": "ProductivityControl\\Repositories\\RestrictedAppRepository.cs",
+              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Repositories\\RestrictedAppRepository.cs",
+              "RelativeToolTip": "ProductivityControl\\Repositories\\RestrictedAppRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:24:52.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsageLogInterface.cs",
+              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Interfaces\\UsageLogInterface.cs",
+              "RelativeDocumentMoniker": "ProductivityControl\\Interfaces\\UsageLogInterface.cs",
+              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Interfaces\\UsageLogInterface.cs",
+              "RelativeToolTip": "ProductivityControl\\Interfaces\\UsageLogInterface.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:12:23.091Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "ProductivityControl\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Forms\\MainForm.cs",
-              "RelativeToolTip": "ProductivityControl\\Forms\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Title": "RestrictedAppInterface.cs",
+              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Interfaces\\RestrictedAppInterface.cs",
+              "RelativeDocumentMoniker": "ProductivityControl\\Interfaces\\RestrictedAppInterface.cs",
+              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Interfaces\\RestrictedAppInterface.cs",
+              "RelativeToolTip": "ProductivityControl\\Interfaces\\RestrictedAppInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:24:35.52Z",
+              "WhenOpened": "2024-11-26T18:11:59.932Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\ProductivityControl\\ProductivityControl\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "ProductivityControl\\Forms\\MainForm.cs",
-              "ToolTip": "C:\\ProductivityControl\\ProductivityControl\\Forms\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ProductivityControl\\Forms\\MainForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:24:32.426Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

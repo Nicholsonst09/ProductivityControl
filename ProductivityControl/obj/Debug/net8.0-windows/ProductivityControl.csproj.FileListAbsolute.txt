@@ -140,3 +140,4 @@ C:\ProductivityControl\ProductivityControl\obj\Debug\net8.0-windows\Productivity
 C:\ProductivityControl\ProductivityControl\obj\Debug\net8.0-windows\ProductivityControl.genruntimeconfig.cache
 C:\ProductivityControl\ProductivityControl\obj\Debug\net8.0-windows\ref\ProductivityControl.dll
 C:\ProductivityControl\ProductivityControl\obj\Debug\net8.0-windows\ProductivityControl.MainForm.resources
+C:\ProductivityControl\ProductivityControl\obj\Debug\net8.0-windows\ProductivityControl.sourcelink.json
